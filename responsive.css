@@ -1,6 +1,6 @@
 @media screen and (max-width: 680px) {
 
-    /* Sharend style */
+    
     .hero__section,
     .standard__main__div,
     .story__main__div,
@@ -13,7 +13,7 @@
       width: 100%;
     }
   
-    /* Nav bar */
+    
     .navbar__items {
       display: none;
     }
@@ -40,7 +40,7 @@
       width: 35px;
     }
   
-    /* hero__section section */
+   
     .hero__section {
       flex-direction: column-reverse;
       margin-top: 20px;
@@ -66,7 +66,7 @@
       display: none;
     }
   
-    /* standard__curiculam  */
+   
     .standard__main__div h2 {
       font-size: 26px;
     }
@@ -75,7 +75,7 @@
       flex-direction: column;
     }
   
-     /* Our stories */
+   
   .story-card {
     display: none;
   }
@@ -101,7 +101,7 @@
     margin: 10px;
   }
 
-  /* Footer */
+  
   .foot {
     grid-template-columns: 1fr;
   }

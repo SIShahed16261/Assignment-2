@@ -1,4 +1,4 @@
-/* Universal Style */
+
 * {
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body {
     font-family: "Quicksand", serif;
 }
 
-/* Shared Style */
+
 header,
 .standard__main__div,
 .marquee,
@@ -19,7 +19,7 @@ header,
     max-width: 1280px;
 }
 
-/* common styles */
+
 
 a {
     text-decoration: none;
@@ -35,7 +35,7 @@ img {
 
 
 
-/* Navbar  styles*/
+
 
 
 .logo {
@@ -113,7 +113,7 @@ img {
     display: none;
 }
 
-/* hero__section styling */
+
 
 .hero__section {
     display: flex;
@@ -162,10 +162,10 @@ img {
     color: black;
 }
 
-/* standard__curiculam styleing */
+
 
 .standard__curiculam {
-    background: url("/assets/bg.png") no-repeat top left;
+    background: url("assets/bg.png") no-repeat top left;
 
 }
 
@@ -269,9 +269,9 @@ img {
 
 
 
-/* Our Stories */
+
 .our__stories {
-    background: url("/assets/bg.png"),
+    background: url("assets/bg.png"),
         linear-gradient(0deg, rgba(254, 163, 1, 0.3), rgba(255, 255, 255, 0.3) 100%);
 }
 

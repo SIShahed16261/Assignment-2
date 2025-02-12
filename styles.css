@@ -404,11 +404,14 @@ footer {
     background-color: #01ACFD;
     color: white;
 }
+ .kids-edu{
+
+} 
 
 
 .kids-edu>div {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     gap: 12px;
 
 
